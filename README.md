@@ -4,7 +4,7 @@ Estou atualmente aprendendo ETL e Python e estou explorando ativamente os recurs
 
 ### Proposta: 
 
-Este projeto visa  demostra os encinamentos adiquiridos no curso Explorando IA Generativa em um Pipeline de ETL com Python
+Este projeto visa  demostra os ensinamentos adquiridos no curso Explorando IA Generativa em um Pipeline de ETL com Python
 
 
 ### Linguagem Utilizada:
